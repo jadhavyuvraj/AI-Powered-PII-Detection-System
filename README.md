@@ -231,6 +231,3 @@ This system is designed to support compliance with:
 <div align="center">
 
 Made with ❤️ to protect privacy in the age of AI
-
-</div>
-<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/0118f664-4bda-44e1-96cc-013e22062e8c" />
